@@ -15,6 +15,6 @@ let arr = [1, 2, 3];
 console.log(arr.pow(2));
 
 function a() {
-  alert("test");
+  alert("Async test");
 }
 a.defer(1000)();
